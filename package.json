@@ -1,0 +1,15 @@
+{"name": "watchable",
+ "version": "0.0.1",
+ "description": "Watchable Event Extension",
+ "main": "lib/watchable.js",
+ "keywords": [
+	 "event",
+	 "evented i/o",
+	 "unhandled events",
+	 "watchable"
+ ],
+ "repository" : {
+	 "type" : "git",
+	 "url" : "git@github.com:kudige/watchable.git"
+ }
+}
